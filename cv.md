@@ -13,6 +13,9 @@
 
 * Java Core
 
+## Code Example
+* (https://github.com/AndreyYurkevich/iLainalis/blob/master/src/Exception/Zadani3_new.java)
+
  ## Education
 
 * 2012 - 2017 Belarusian National Technical University, faculty of transport communication, department of road design
